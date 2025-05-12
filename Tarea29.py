@@ -17,3 +17,12 @@
 #Simular un temporizador (contar regresivamente desde N).
 
 #Leer archivos línea por línea hasta fin de archivo.
+
+# MIENTRAS - WHILE
+# VISUALIZAR LOS PRIMEROS LOS 5 PRIMEROS NUMEROS DE minestras + WHILE
+
+contador = 0
+while contador <= 9:
+    print("Numero: ", contador)
+    contador +=1
+    
